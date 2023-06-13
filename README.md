@@ -1,2 +1,4 @@
 # WangYeTranslate
 网页翻译的小工具
+使用前一定要安装TemperMonkey插件
+还需要到GreasyFork官网安装一个叫做 沉浸式翻译 的脚本
